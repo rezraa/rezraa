@@ -13,7 +13,7 @@
 
 ### About Me
 
-Quality engineering leader with 19+ years building and scaling test automation across fintech, healthcare, AI, and real estate. I architect full-stack test frameworks from scratch, lead SDET teams, with a focus on agentic AI — building systems that autonomously heal failing tests using Claude, custom MCP servers, and skills frameworks.
+I build AI agents that make other AI agents smarter. 19 years of breaking and fixing software across fintech, healthcare, and real estate. Now I am working on giving LLMs curated knowledge bases so they stop guessing and start reasoning.
 
 ![USC](https://img.shields.io/badge/MS_Computer_Science-USC-990000?style=flat-square&logoColor=white) &nbsp; ![WMU](https://img.shields.io/badge/BS_Computer_Science-Western_Michigan-603311?style=flat-square&logoColor=FFAE00)
 
