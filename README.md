@@ -24,26 +24,38 @@ Quality engineering leader with 19+ years building and scaling test automation a
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/rezraa/recon">Recon</a></h4>
-      <p>Self-hosted job intelligence platform — aggregates listings from multiple sources, scores them against your resume, and organizes your entire job search pipeline.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <h4><a href="https://github.com/rezraa/mnemos">Mnemos</a></h4>
+      <p>Algorithmic reasoning agent for LLMs, closes the algorithm selection gap with curated knowledge base, structural signal matching, and A/B-validated research.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
     </td>
     <td width="50%">
+      <h4><a href="https://github.com/rezraa/recon">Recon</a></h4>
+      <p>Self-hosted job intelligence platform, aggregates listings from multiple sources, scores them against your resume, and organizes your entire job search pipeline.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h4><a href="https://github.com/rezraa/ds-algorithm-primer">DS & Algorithm Primer</a></h4>
-      <p>Interactive visual reference for data structures and algorithms — 100+ step-through visualizations, Kotlin code, and when-to-use guides.</p>
+      <p>Interactive visual reference for data structures and algorithms, 100+ step-through visualizations, Kotlin code, and when-to-use guides.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/rezraa/ck3-modding-llm-autotune">CK3 Modding LLM Autotune</a></h4>
+      <p>Train a local LLM to natively understand CK3 modding, QLoRA fine-tuning with automated hyperparameter search.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/rezraa/ck3_mcp">CK3 MCP Server</a></h4>
-      <p>An MCP server to assist in creating Crusader Kings 3 mods — AI-powered modding companion.</p>
+      <p>An MCP server to assist in creating Crusader Kings 3 mods, AI-powered modding companion.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/rezraa/ck3-modding-llm-autotune">CK3 Modding LLM Autotune</a></h4>
-      <p>Train a local LLM to natively understand CK3 modding — QLoRA fine-tuning with automated hyperparameter search.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 </table>
