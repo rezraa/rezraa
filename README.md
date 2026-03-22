@@ -41,6 +41,38 @@ I build AI agents that make other AI agents smarter. 19 years of breaking and fi
   </tr>
   <tr>
     <td width="50%">
+      <h4><a href="https://github.com/rezraa/hyperion">Hyperion</a></h4>
+      <p>Security Titan for code and AI agents, threat detection backed by 65 vulnerability patterns, 13 agent attack vectors, and 55 decision rules.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/rezraa/themis">Themis</a></h4>
+      <p>Testing and validation Titan, 47 test strategies, 12 agent testing patterns, and six comparison engines that judge AI agent output with scores, deviations, and verdicts.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/rezraa/coeus">Coeus</a></h4>
+      <p>Architecture Titan for system design and scalability, 248 entries of architectural knowledge, constraint aware pattern recommendations, and resilience assessment across time horizons.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/rezraa/theia">Theia</a></h4>
+      <p>Design Titan for UI/UX and accessibility, 52 design systems, 66 component patterns, 58 WCAG criteria, and 62 decision rules for design system architecture.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agent-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h4><a href="https://github.com/rezraa/recon">Recon</a></h4>
       <p>Self-hosted job intelligence platform, aggregates listings from multiple sources, scores them against your resume, and organizes your entire job search pipeline.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
